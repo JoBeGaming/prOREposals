@@ -133,7 +133,7 @@ mainainer of a specific project used by ORE
 - univOREsity organizer
 -->
 
-Ranks aren't shown like normal ranks, of which you can only possess one at a time. The can be shown in-game via a hover over the name of a user, and via the given roles in the discord. A solution for the discourse may also be found, so given permissions can be obvious at once. A system with e.g. permission and ping roles in the discord might be applied (similar to e.g. the Python Discord Server), so e.g. `@mods` can be pinged, and those with permissions to help in a situation can be pinged too. For Discourse and Minecraft, an option to show a specific role next to the rank may be added.
+Roles aren't shown like normal ranks, of which you can only possess one at a time. The can be shown in-game via a hover over the name of a user, and via the given roles in the discord. A solution for the discourse may also be found, so given permissions can be obvious at once. A system with e.g. permission and ping roles in the discord might be applied (similar to e.g. the Python Discord Server), so e.g. `@mods` can be pinged, and those with permissions to help in a situation can be pinged too. For Discourse and Minecraft, an option to show a specific role next to the rank may be added.
 
 ### Trialer
 
@@ -179,14 +179,13 @@ What happens to current builders? Currently, there are three options:
   Lower influx of trials/tests required when revamp day comes
 - They could be required to have an Application (simple-ish) and automatically get accepted -> higher rank, or rejected->lower rank
 
-Potentially have some people pre-promoted that we know are close to engineer rank? <- Similar to Trialer/Trusted Rank?!
+---
 
+Notes about the transition period and the Trialer Role
 
-“Trialer” rank
-We could test this pre-revamp to potentially see if this works out on current builder trials
-Some mods have already let builders run trials, these people would be a great fit as the first people in this role (kinda a pilot program for pre-revamp could work)
-These people could help with the influx of trials needed for ranking up from apprentice (name TBD) rank
-These people are guaranteed “new builder” rank on revamp day and would help run builder trials post-revamp (esp if current builders get put in apprentice rank on revamp day)
+<!--Potentially have some people pre-promoted that we know are close to engineer rank? <- Similar to Trialer/Trusted Role?!-->
+
+We could test the Trialer role pre-revamp to potentially see how it works for current Builder trials. Some Moderators have already let Builders run trials, these people would be a great fit as the first people in this role (kinda a pilot program for pre-revamp could work). These people could help with the influx of trials needed for ranking up from the Apprentice rank. The Trialers are guaranteed the new "Builder" rank ([Designer](#D---Designer)) on revamp day and would help run Apprentice and Designer Trials post-revamp (especially if the decision is made to have current Builders get Apprentice rank on revamp day).
 
 [V]: #V---Visitor "Visitor Rank"
 [S]: #S---Student "Student Rank"
