@@ -70,6 +70,8 @@ Each Rank requires already having all previous Ranks.
 - Either full WE Access, or limit it after X Months, with limited size, less commands, and fewer editable blocks, no entities and no NBT usable
 - Single Build Plot (256x256), second (additional) Student Plot (128x128, so 256x128 total if they are connected)
 - No Patrick Cooldown (for default commands, see <!--TODO: PROPOSAL/LINK-->)
+- Access to the `/seasonal` server.
+- Access to the `/survival` server.
 - If the person was active on either the Discourse, the Discord or the Minecraft server (not just AFK, TBD) in the last 3 months, they are eligible to vote
 - If the person was active on the Discourse, Discord and Minecraft Server (not just AFK, TBD) in the last 3 months, and they have been a Student for over a year, they are eligible to be voted as a Moderator.
 
@@ -103,7 +105,6 @@ Each Rank requires already having all previous Ranks.
 - Second Build Plot (256x256, so 512x256 if they are connected)
 - Full World Edit Access with bigger size limit (smaller than current)
 - A Plot on the `/play` server.
-- Access to the `/survival` server.
 - Being able to become TeachORE or Trialer if deemed eligible by Staff, see the application process for the Ranks.
 
 <!--Alternative Requirement idea: “Baby’s First CPU”, i.e. a VERY simple one. (No/Small ram, any speed, some isa/instructions, some rom, no ports/io needed, single cycle or more)-->
@@ -120,6 +121,7 @@ Each Rank requires already having all previous Ranks.
 - 2x2 Builder Plot (512x512 is connected)
 - Access to MCHRPS server
 - Bigger WE Size limit
+- A second plot on the `/play` server.
 - WE on the `/play` server.
 
 ## Proposed Roles (Permissions)
