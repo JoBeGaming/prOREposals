@@ -35,7 +35,7 @@ Each Rank requires already having all previous Ranks.
 
 #### Requirements
 
-- Visiting the Minecraft Server using a NON CRACKED Account
+- Visiting the Minecraft Server
 
 #### Benefits
 
