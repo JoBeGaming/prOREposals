@@ -119,10 +119,10 @@ Each Rank requires already having all previous Ranks.
 - Access to MCHRPS server
 - Bigger WE Size limit
 
-## Proposed Accessory Ranks/Roles/Non-ranks (Permissions)
+## Proposed Roles (Permissions)
 
 <!---
-trialer
+trialer (trusted? <- clashed with @Trusted role in discord, for non-linked accounts)
 helper
 developer
 organizator
@@ -133,32 +133,55 @@ mainainer of a specific project used by ORE
 - univOREsity organizer
 -->
 
-Trialer / Trusted (?)
-Requirements:
-Community / staff Trust
-Potentially performing a trial with a staff member beforehand?
-Builder-level knowledge
-Benefits: Being able to Trial Student to Apprentice /  Apprentice to builder
-Possibly Above / Other? (Student to builder pre-revamp, anything up to builder post-revamp?)
-Isn’t shown like normal rank, instead Hover Action in-game or similar (user profiles?). Might also be possible to say users can decide what is shown, although that might bring more problems
-Helper
-Requirements:
-Trusted by Staff
-Voted in by Staff (can apply, then once a month there is a vote, and like only those with 2/3rds of Staff approval get the role)
-Applied
--  Benefits: Can resolve Stuff with Kicks and Timeouts, Notifies Staff, can provide info in Staff situations, perms to post in Discourse Stuff that is locked, and locked DC threads, can reply to appeals and such (not with accept / reject), just with stuff like saying the format is bad or such
+Ranks aren't shown like normal ranks, of which you can only possess one at a time. The can be shown in-game via a hover over the name of a user, and via the given roles in the discord. A solution for the discourse may also be found, so given permissions can be obvious at once. A system with e.g. permission and ping roles in the discord might be applied (similar to e.g. the Python Discord Server), so e.g. `@mods` can be pinged, and those with permissions to help in a situation can be pinged too. For Discourse and Minecraft, an option to show a specific role next to the rank may be added.
 
-Transition Period
+### Trialer
 
-What happens to current builders?
-They can be moved to apprentice rank
-Could cause issues if apprentice rank perks are lower than that of the builder
-More fair since the requirements match more closely
-They can be moved to builder
-Potentially less fair since requirements for new builder are higher
-Lower influx of trials/tests required when revamp day comes
-They could be required to have an Application (simple-ish) and automatically get accepted -> higher rank, or rejected->lower rank
+#### Requirements:
+
+- Community / Staff Trust <!--TBD-->
+- Potentially performing a Trial with at least one Staff Member present
+- Builder-level knowledge (see [D Rank Benefits](#D---Designer))
+
+#### Benefits:
+
+- Being able to Trial Student to Apprentice and Apprentice to Designer
+<!-- Possibly Above / Other? (Student to builder pre-revamp, anything up to builder post-revamp?)-->
+
+### Helper
+
+Might also be viewed as alternative helper in case of offenses including Staff. Can help to calm down situations involving cases where injustice from Staff is being felt by a member.
+
+#### Requirements:
+
+- Community / Staff Trust <!--TBD-->
+- Voted in by Staff (can apply, then once a month there is a vote, and like only those with 2/3rds of Staff approval get the role) <!--TBD application system-->
+
+#### Benefits:
+
+- Minor Staff Permissions, e.g. Kick and Timeout
+- Can provide more insight durring Staff meetings
+- notifies Staff about potential problems found
+- Can post in locked Discourse / Discord Threads to Help in Discussions
+- Can lock & unlock posts
+- Can hide posts
+- Can reply to appeals in Discourse, not with accepting / rejecting them
+
+## Transition Period
+
+What happens to current builders? Currently, there are three options:
+
+- They can be moved to apprentice rank
+  Could cause issues if apprentice rank perks are lower than that of the builder
+  More fair since the requirements match more closely
+- They can be moved to builder
+  Potentially less fair since requirements for new builder are higher
+  Lower influx of trials/tests required when revamp day comes
+- They could be required to have an Application (simple-ish) and automatically get accepted -> higher rank, or rejected->lower rank
+
 Potentially have some people pre-promoted that we know are close to engineer rank? <- Similar to Trialer/Trusted Rank?!
+
+
 “Trialer” rank
 We could test this pre-revamp to potentially see if this works out on current builder trials
 Some mods have already let builders run trials, these people would be a great fit as the first people in this role (kinda a pilot program for pre-revamp could work)
