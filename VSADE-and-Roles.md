@@ -52,6 +52,7 @@ Each Rank requires already having all previous Ranks.
 
 - Student Rank, possibly the ability to use Patrick with cooldown on some commands
 - Student Plot (128x128)
+- A Plot on the `/play` server.
 
 ### A - Apprentice
 
@@ -74,7 +75,6 @@ Each Rank requires already having all previous Ranks.
 - No Patrick Cooldown (for default commands, see <!--TODO: PROPOSAL/LINK-->)
 - Access to the `/seasonal` server.
 - Access to the `/survival` server.
-- A Plot on the `/play` server.
 - If the person was active on either the Discourse, the Discord or the Minecraft server (not just AFK, TBD) in the last 3 months, they are eligible to vote
 - If the person was active on the Discourse, Discord and Minecraft Server (not just AFK, TBD) in the last 3 months, and they have been a Student for over a year, they are eligible to be voted as a Moderator.
 
