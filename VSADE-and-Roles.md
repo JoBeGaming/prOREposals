@@ -1,7 +1,4 @@
 <!--markdownlint-disable-file MD024-->
-<!--
-Created by Jobe, Trailers, Amelium, Imated and others xdxd
--->
 
 # VSADE Scheme and additional Role System for the Open Redstone Engineers Server
 
@@ -30,6 +27,9 @@ Roles are not part of the rank system. They serve as additional indicators of pe
 ## Suggested Ranks ([V]-[S]-[A]-[D]-[E] Scheme)
 
 Each Rank requires already having all previous Ranks.
+
+> [!Note]
+> Current secondary plots on `/school`, `/build` or `/play`, as well as access to `/survival` and `/seasonal` will *not* be revoked, even if current Builders are given the Apprentice rank.
 
 ### V - Visitor
 
@@ -69,11 +69,12 @@ Each Rank requires already having all previous Ranks.
 
 #### Benefits
 
-- Either full WE Access, or limit it after X Months, with limited size, less commands, and fewer editable blocks, no entities and no NBT usable
+- Either full WE Access, or limit it after X Months of the transition period, with limited size, less commands, and fewer editable blocks, no entities and no NBT usable
 - Single Build Plot (256x256), second (additional) Student Plot (128x128, so 256x128 total if they are connected)
 - No Patrick Cooldown (for default commands, see <!--TODO: PROPOSAL/LINK-->)
 - Access to the `/seasonal` server.
 - Access to the `/survival` server.
+- A Plot on the `/play` server.
 - If the person was active on either the Discourse, the Discord or the Minecraft server (not just AFK, TBD) in the last 3 months, they are eligible to vote
 - If the person was active on the Discourse, Discord and Minecraft Server (not just AFK, TBD) in the last 3 months, and they have been a Student for over a year, they are eligible to be voted as a Moderator.
 
@@ -107,7 +108,7 @@ Each Rank requires already having all previous Ranks.
 
 - Second Build Plot (256x256, so 512x256 if they are connected)
 - Full World Edit Access with bigger size limit (smaller than current)
-- A Plot on the `/play` server.
+- Limited World Edit Access on `/play`.
 - Being able to become TeachORE or Trialer if deemed eligible by Staff, see the application process for the Ranks.
 
 <!--Alternative Requirement idea: “Baby’s First CPU”, i.e. a VERY simple one. (No/Small ram, any speed, some isa/instructions, some rom, no ports/io needed, single cycle or more)-->
@@ -125,7 +126,7 @@ Each Rank requires already having all previous Ranks.
 - Access to MCHRPS server
 - Bigger WE Size limit
 - A second plot on the `/play` server.
-- WE on the `/play` server.
+- Full World Edit Access on `/play`.
 
 ## Proposed Roles (Permissions)
 
