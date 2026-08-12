@@ -102,6 +102,8 @@ Each Rank requires already having all previous Ranks.
 
 - Second Build Plot (256x256, so 512x256 if they are connected)
 - Full World Edit Access with bigger size limit (smaller than current)
+- A Plot on the `/play` server.
+- Access to the `/survival` server.
 - Being able to become TeachORE or Trialer if deemed eligible by Staff, see the application process for the Ranks.
 
 <!--Alternative Requirement idea: “Baby’s First CPU”, i.e. a VERY simple one. (No/Small ram, any speed, some isa/instructions, some rom, no ports/io needed, single cycle or more)-->
@@ -118,6 +120,7 @@ Each Rank requires already having all previous Ranks.
 - 2x2 Builder Plot (512x512 is connected)
 - Access to MCHRPS server
 - Bigger WE Size limit
+- WE on the `/play` server.
 
 ## Proposed Roles (Permissions)
 
