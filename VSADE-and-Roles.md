@@ -70,7 +70,7 @@ Each Rank requires already having all previous Ranks.
 
 #### Benefits
 
-- Either full WE Access, or limit it after X Months of the transition period, with limited size, less commands, and fewer editable blocks, no entities and no NBT usable
+- World Edit Access with conformation required below current size limit. <!--fewer editable blocks, no entities and no NBT usable TBD-->
 - Single Build Plot (256x256), second (additional) Student Plot (128x128, so 256x128 total if they are connected)
 - No Patrick Cooldown (for default commands, see <!--TODO: PROPOSAL/LINK-->)
 - Access to the `/seasonal` server.
@@ -107,7 +107,7 @@ Each Rank requires already having all previous Ranks.
 #### Benefits
 
 - Second Build Plot (256x256, so 512x256 if they are connected)
-- Full World Edit Access with bigger size limit (smaller than current)
+- Bigger WE Size limit until conformation is required (current).
 - Limited World Edit Access on `/play`.
 - Being able to become TeachORE or Trialer if deemed eligible by Staff, see the application process for the Ranks.
 
@@ -124,7 +124,7 @@ Each Rank requires already having all previous Ranks.
 
 - 2x2 Builder Plot (512x512 is connected)
 - Access to MCHRPS server
-- Bigger WE Size limit
+- Bigger WE Size limit until conformation is required (above current).
 - A second plot on the `/play` server.
 - Full World Edit Access on `/play`.
 
