@@ -44,7 +44,7 @@ Each Rank requires already having all previous Ranks.
 
 #### Requirements
 
-- Linked Discourse Account
+- Linked Discourse Account IS RECOMMENDED
 - Agreeing to the Rules
 
 #### Benefits
@@ -56,7 +56,7 @@ Each Rank requires already having all previous Ranks.
 
 #### Requirements
 
-- Linked Discourse Account
+- Linked Discourse Account IS RECOMMENDED
 - Application on Discourse
 - RCA (Perhaps also other?)
 - Binary addition & Subtraction (with 2s Complement)
@@ -80,6 +80,7 @@ Each Rank requires already having all previous Ranks.
 
 #### Requirements
 
+- Linked Discourse Account and Discord Account
 - Application on Discourse
 - CCA and at least one of CSA, CLE, CLA, PPA
 - Bussing techniques in Binary and Hexadecimal
