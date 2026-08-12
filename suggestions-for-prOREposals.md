@@ -7,4 +7,4 @@ For a proposal to be successful as a proposal, though not necessarily for being 
 Your proposal is this. The Gap Analysis, what Requirements it fulfills, as well as your preliminary Plan for how to implement this change. The proposal should fully explain the necessity for any change, the impact on the community as well as possible other solutions to problems. A full workflow for the implementation of the proposal should be included as well.
 
 > [!Note]
-> Those of you who are interested in becoming engineers should take note of this, as well as the terminology, for many of you will, willingly or not, need to deal with a not insignificant amount of Project Management. This is a part of it. Making good and successful proposals is how you will get your engineering projects funded, and ultimately made. 
+> Those of you who are interested in becoming engineers should take note of this, as well as the terminology, for many of you will, willingly or not, need to deal with a not insignificant amount of Project Management. This is a part of it. Making good and successful proposals is how you will get your engineering projects funded, and ultimately made.

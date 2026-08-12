@@ -1,3 +1,4 @@
+<!--markdownlint-disable-file MD024-->
 <!--
 Created by Jobe, Trailers, Amelium, Imated and others xdxd
 -->
@@ -5,7 +6,7 @@ Created by Jobe, Trailers, Amelium, Imated and others xdxd
 # VSADE Scheme and additional Role System for the Open Redstone Engineers Server
 
 > [!Note]
-> This is to document, and give an overview of, what people have suggested so far. 
+> This is to document, and give an overview of, what people have suggested so far.
 
 ## Overview
 
@@ -15,45 +16,45 @@ Created by Jobe, Trailers, Amelium, Imated and others xdxd
 - Transition Period
 <!--Fast Track, where certain members can get the higher rank faster for some time.-->
 
-## About Naming:
+## About Naming
 
-### Rank:
+### Rank
 
 A rank is the “level” of a person. Ranks are ordered from those easiest to get to those harder to reach. A person can only have one rank at a time. Skipping ranks is not allowed (except possibly for the transition period). Ranks cannot be taken away, unless absolutely necessary (or during transition). An example for a current rank would be Student.
 
-### Role:
+### Role
 
 Roles are not part of the rank system. They serve as additional indicators of permissions granted by Staff, to help the community. Multiple roles can be held at the same time. An example for a current role would be Staff, as (current) Builders and Engineers can have permissions for Staff / Administration too.
 
-## Suggested Ranks ([V]-[S]-[A]-[D]-[E] Scheme):
+## Suggested Ranks ([V]-[S]-[A]-[D]-[E] Scheme)
 
 Each Rank requires already having all previous Ranks.
 
 ### V - Visitor
 
-#### Requirements:
+#### Requirements
 
 - Visiting the Minecraft Server using a NON CRACKED Account
 
-#### Benefits:
+#### Benefits
 
 - Patrick Usage for very limited set of commands, e.g. `,wb` to lessen potential for spam. TBD
 
 ### S - Student
 
-#### Requirements:
+#### Requirements
 
 - Linked Discourse Account
 - Agreeing to the Rules
 
-#### Benefits:
+#### Benefits
 
 - Student Rank, possibly the ability to use Patrick with cooldown on some commands
 - Student Plot (128x128)
 
 ### A - Apprentice
 
-#### Requirements:
+#### Requirements
 
 - Linked Discourse Account
 - Application on Discourse
@@ -65,7 +66,7 @@ Each Rank requires already having all previous Ranks.
 - Fundamental Circuits <!--TBD-->
 - Binary Test Score of at most 2 Questions wrong in less than 9 Minutes
 
-#### Benefits:
+#### Benefits
 
 - Either full WE Access, or limit it after X Months, with limited size, less commands, and fewer editable blocks, no entities and no NBT usable
 - Single Build Plot (256x256), second (additional) Student Plot (128x128, so 256x128 total if they are connected)
@@ -77,7 +78,7 @@ Each Rank requires already having all previous Ranks.
 
 ### D - Designer
 
-#### Requirements:
+#### Requirements
 
 - Application on Discourse
 - CCA and at least one of CSA, CLE, CLA, PPA
@@ -100,7 +101,7 @@ Each Rank requires already having all previous Ranks.
   - Control Logic
 - Simple Programming Knowledge in any language + simple Assembly language (or universal, e.g. URCL)
 
-#### Benefits:
+#### Benefits
 
 - Second Build Plot (256x256, so 512x256 if they are connected)
 - Full World Edit Access with bigger size limit (smaller than current)
@@ -111,12 +112,12 @@ Each Rank requires already having all previous Ranks.
 
 ### E - Engineer
 
-#### Requirements:
+#### Requirements
 
 - Application on Discourse
 - Impressive Build (Pipelined CPU, GPU, …) AND advanced programming knowledge (e.g. programms being run on a CPU)
 
-#### Benefits:
+#### Benefits
 
 - 2x2 Builder Plot (512x512 is connected)
 - Access to MCHRPS server
@@ -142,13 +143,13 @@ Roles aren't shown like normal ranks, of which you can only possess one at a tim
 
 ### Trialer
 
-#### Requirements:
+#### Requirements
 
 - Community / Staff Trust <!--TBD-->
 - Potentially performing a Trial with at least one Staff Member present
-- Builder-level knowledge (see [D Rank Benefits](#D---Designer))
+- Builder-level knowledge (see [D Rank Benefits](#d---designer))
 
-#### Benefits:
+#### Benefits
 
 - Being able to Trial Student to Apprentice and Apprentice to Designer
 <!-- Possibly Above / Other? (Student to builder pre-revamp, anything up to builder post-revamp?)-->
@@ -157,12 +158,12 @@ Roles aren't shown like normal ranks, of which you can only possess one at a tim
 
 Might also be viewed as alternative helper in case of offenses including Staff. Can help to calm down situations involving cases where injustice from Staff is being felt by a member.
 
-#### Requirements:
+#### Requirements
 
 - Community / Staff Trust <!--TBD-->
 - Voted in by Staff (can apply, then once a month there is a vote, and like only those with 2/3rds of Staff approval get the role) <!--TBD application system-->
 
-#### Benefits:
+#### Benefits
 
 - Minor Staff Permissions, e.g. Kick and Timeout
 - Can provide more insight durring Staff meetings
@@ -190,10 +191,10 @@ Notes about the transition period and the Trialer Role
 
 <!--Potentially have some people pre-promoted that we know are close to engineer rank? <- Similar to Trialer/Trusted Role?!-->
 
-We could test the Trialer role pre-revamp to potentially see how it works for current Builder trials. Some Moderators have already let Builders run trials, these people would be a great fit as the first people in this role (kinda a pilot program for pre-revamp could work). These people could help with the influx of trials needed for ranking up from the Apprentice rank. The Trialers are guaranteed the new "Builder" rank ([Designer](#D---Designer)) on revamp day and would help run Apprentice and Designer Trials post-revamp (especially if the decision is made to have current Builders get Apprentice rank on revamp day).
+We could test the Trialer role pre-revamp to potentially see how it works for current Builder trials. Some Moderators have already let Builders run trials, these people would be a great fit as the first people in this role (kinda a pilot program for pre-revamp could work). These people could help with the influx of trials needed for ranking up from the Apprentice rank. The Trialers are guaranteed the new "Builder" rank ([Designer](#d---designer)) on revamp day and would help run Apprentice and Designer Trials post-revamp (especially if the decision is made to have current Builders get Apprentice rank on revamp day).
 
-[V]: #V---Visitor "Visitor Rank"
-[S]: #S---Student "Student Rank"
-[A]: #A---Apprentice "Apprentice Rank"
-[D]: #D---Designer "Designer Rank"
-[E]: #E---Engineer "Engineer Rank"
+[V]: #v---visitor "Visitor Rank"
+[S]: #s---student "Student Rank"
+[A]: #a---apprentice "Apprentice Rank"
+[D]: #d---designer "Designer Rank"
+[E]: #e---engineer "Engineer Rank"
