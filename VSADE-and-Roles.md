@@ -140,7 +140,7 @@ mainainer of a specific project used by ORE
 - univOREsity organizer
 -->
 
-Roles aren't shown like normal ranks, of which you can only possess one at a time. The can be shown in-game via a hover over the name of a user, and via the given roles in the discord. A solution for the discourse may also be found, so given permissions can be obvious at once. A system with e.g. permission and ping roles in the discord might be applied (similar to e.g. the Python Discord Server), so e.g. `@mods` can be pinged, and those with permissions to help in a situation can be pinged too. For Discourse and Minecraft, an option to show a specific role next to the rank may be added.
+Roles aren't shown like normal ranks, of which you can only possess one at a time. They can be shown in-game via a hover over the name of a user, and via the given roles in the discord. A solution for the discourse may also be found, so given permissions can be obvious at once. A system with e.g. permission and ping roles in the discord might be applied (similar to e.g. the Python Discord Server), so e.g. `@mods` can be pinged, and those with permissions to help in a situation can be pinged too. For Discourse and Minecraft, an option to show a specific role next to the rank may be added.
 
 ### Trialer
 
