@@ -25,7 +25,7 @@ A rank is the “level” of a person. Ranks are ordered from those easiest to g
 
 Roles are not part of the rank system. They serve as additional indicators of permissions granted by Staff, to help the community. Multiple roles can be held at the same time. An example for a current role would be Staff, as (current) Builders and Engineers can have permissions for Staff / Administration too.
 
-## Suggested Ranks ([V][S][A][D][E] Scheme):
+## Suggested Ranks ([V]-[S]-[A]-[D]-[E] Scheme):
 
 Each Rank requires already having all previous Ranks.
 
@@ -106,7 +106,7 @@ Each Rank requires already having all previous Ranks.
 
 <!--Alternative Requirement idea: “Baby’s First CPU”, i.e. a VERY simple one. (No/Small ram, any speed, some isa/instructions, some rom, no ports/io needed, single cycle or more)-->
 
-### Engineer
+### E - Engineer
 
 #### Requirements:
 
