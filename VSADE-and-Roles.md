@@ -6,7 +6,8 @@ Created by Jobe, Trailers, Amelium, Imated and others xdxd
 # VSADE Scheme and additional Role System for the Open Redstone Engineers Server
 
 > [!Note]
-> This is to document, and give an overview of, what people have suggested so far.
+> This place exists purely to document and give an overview of what people have suggested for this topic so far.
+> Once the ORE proposal system is in place (Proposal TBD), this idea will be proposed. Once accepted, the outlined VSADE structure and role system will be inplace in ORE.
 
 ## Overview
 
